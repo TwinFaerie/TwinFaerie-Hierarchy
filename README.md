@@ -1,3 +1,8 @@
+<h1>Twin Faerie Modification</h1>
+<hr>
+We only change menu to be inside TwinFaerie/Thirdparty to make menu bar less clutter for our project since we won't be using this menu frequently
+<hr>
+
 <h1 align="center">My Hierarchy</h1>
 <h3 align="center">Upgraded Unity Hierarchy - Detailed & Organized</h2>
 

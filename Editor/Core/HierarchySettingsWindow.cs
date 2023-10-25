@@ -26,7 +26,7 @@ namespace MyHierarchy
         private static HierarchySettingsWindow window;
         private static SerializedObject settingsSO;
 
-        [MenuItem("My Hierarchy/Settings")]
+        [MenuItem("TwinFaerie/Thirdparty/My Hierarchy/Settings", priority = 20)]
         private static void ShowWindow() {
             window = GetWindow<HierarchySettingsWindow>();
             window.titleContent = new GUIContent("Hierarchy Settings");
